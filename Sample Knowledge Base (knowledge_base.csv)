@@ -1,0 +1,7 @@
+id,pattern,response
+1,Hello,Hi! How can I help you today?
+2,What is your name?,I am your Virtual AI Assistant.
+3,Set a reminder for *,Reminder set for {time}.
+4,What is the weather in *,The current weather in {location} is sunny with 25°C.
+5,Who created you?,I was created using Python, AIML, and NLP.
+6,Goodbye,Goodbye! Have a great day.
