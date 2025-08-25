@@ -1,0 +1,12 @@
+VirtualAIAssistant/
+│
+├── data/
+│   └── knowledge_base.csv          # Sample knowledge base for AIML/NLP responses
+│
+├── scripts/
+│   ├── assistant.py                # Main AI assistant script
+│   ├── api_integration.py          # Handles external API calls
+│   └── utils.py                     # Utility functions for NLP and automation
+│
+├── requirements.txt                 # Dependencies
+└── README.md                        # Project description
